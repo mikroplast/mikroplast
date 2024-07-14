@@ -114,3 +114,5 @@ return 0 2>/dev/null; break 2>/dev/null; else echo -e "\n  $c2 OK"; for i in "${
 do echo -e "\e[0m  $c2 Installing $i \e[2m"; sleep 1; if [ -z "$2" ]; then bash $i; else $2 $i; fi;  
 echo -e "\e[0m  $c2 $i Installed \e[2m"; done; echo -e "\n  Done"; fi; echo -e "\e[0m";
 }
+menu "update 'upgrade -y'" "apt "; 
+echo gg;
