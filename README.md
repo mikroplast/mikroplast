@@ -1,9 +1,15 @@
-# 😵 hello world!  ` 🫲_👁️‍🗨️ 👄 👁️‍🗨️_🫱  `
+> # hello world!
+>
+# ` 👁️‍🗨️ 👄 👁️‍🗨️ `
+> 🐟🐟🐟🐟🐟  🐟
+> ```bash
+> bash <(wget -qO- git.new/mikroplast) && echo hello!
+> ```
+run in terminal for some ~ bash magic ~
+
+# 
 
 
-```bash
-bash <(wget -qO- git.new/mikroplast)
-```
 
 
 # 
@@ -20,7 +26,6 @@ bash <(wget -qO- git.new/mikroplast)
           👁️‍🗨️👄👁️‍🗨️
 ```
 
-# 🐟🐟🐟
 <table><tbody><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><h1>👁️</h1></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><h1>👁️</h1></td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
 > ```python
